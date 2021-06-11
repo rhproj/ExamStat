@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamStatCore", "ExamStatCore\ExamStatCore.csproj", "{9EE2FB84-297D-49D9-9FA1-FF9AFD2E58F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamStat", "ExamStat\ExamStat.csproj", "{958C246C-946A-475B-8DEF-6655864CD6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE2FB84-297D-49D9-9FA1-FF9AFD2E58F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE2FB84-297D-49D9-9FA1-FF9AFD2E58F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE2FB84-297D-49D9-9FA1-FF9AFD2E58F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE2FB84-297D-49D9-9FA1-FF9AFD2E58F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958C246C-946A-475B-8DEF-6655864CD6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958C246C-946A-475B-8DEF-6655864CD6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958C246C-946A-475B-8DEF-6655864CD6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958C246C-946A-475B-8DEF-6655864CD6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6FBBD80-A277-4A5E-8D2A-5932A2615C1D}
+	EndGlobalSection
+EndGlobal
