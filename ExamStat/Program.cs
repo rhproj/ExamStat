@@ -14,8 +14,8 @@ namespace ExamStat
     {
         static void Main(string[] args)
         {
-            string path = @"\\fsttr02\стат. отчеты\Бланки отчетов\Старая папка\ts\";
-            string fileName = "var3.exe";
+            string path = @"\\...\";
+            string fileName = "var.exe";
 
             if (File.Exists(path + fileName))
             {
