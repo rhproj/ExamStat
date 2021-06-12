@@ -9,7 +9,7 @@ namespace ExamStatCore
         {
             try
             {
-                Process.Start(@"\\fsttr02\стат. отчеты\Бланки отчетов\Старая папка\tst\testStat_var3.exe");
+                Process.Start(@"\\");
             }
             catch (Exception ex)
             {
