@@ -13,7 +13,7 @@ namespace ExamStatCore
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Что-то пошло не так..." + Environment.NewLine + Environment.NewLine + ex + Environment.NewLine + Environment.NewLine + "Нажмите чё-нить чтоб закрыть");
+                Console.WriteLine(ex);
                 Console.ReadKey();
             }
         }
