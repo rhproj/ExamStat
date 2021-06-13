@@ -23,7 +23,7 @@ namespace ExamStat
             }
             else
             {
-                Console.WriteLine("Что-то пошло не так," + Environment.NewLine + "Либо Ваши действия несанкционированны," + Environment.NewLine + "Нажмите любую клавишу...");
+                Console.WriteLine("Отказанно в доступе" + Environment.NewLine + "Нажмите любую клавишу...");
 
                 try
                 {
