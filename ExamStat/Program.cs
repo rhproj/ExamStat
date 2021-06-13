@@ -23,7 +23,7 @@ namespace ExamStat
             }
             else
             {
-                Console.WriteLine("Отказанно в доступе" + Environment.NewLine + "Нажмите любую клавишу...");
+                Console.WriteLine("Отказано в доступе" + Environment.NewLine + "Нажмите любую клавишу...");
 
                 try
                 {
